@@ -1,9 +1,9 @@
 - welcome ironhackers
-    - individual presentations (1min each => dont forget nina)
+    - individual presentations
     - presentation curriculum
     - module I  
         - week 1 + 2
-        - frontend programming : html, css, js, dom, oop, git
+        - frontend programming : html, css, js, dom, oop, git...
     - project I
         - week 3
         - DIY: code a game
@@ -45,15 +45,15 @@
         - expect frustration (feeling lost, overwhelmed, stressed, etc.)
         - expect nose bleed (technical difficulties)
         - don't compare yourself with others : it's a fight against yourself ;)
-        - during the class, during the labs, during the group projects
+            - during the class, during the labs, during the group projects
         - ask questions : there is NO SUCH THING as a "stupid question"
         - just wait the proper moment please ;)
-        - take some notes : notebook, notion, google doc's, your call
+        - take some notes : notebook, cheat-sheets, notion, google doc's, your call
         - wax on, off (=== work hard, be passionate ... more coming tonight)
         - focus on the journey, you'll think about the outcome (jobs) in two months
         - Try to be as autonomous as possible
         - the hacker spirit : finding the solution
-        - read the lesson the day before is better : 
+        - reading the lesson the day before is better : 
           - cause we are not PDF reader ;)
           - cause you'll learn better this way
           - cause you can come with precise questions
